@@ -9,6 +9,7 @@ class Cbuilding{
         this->floors=floors;
         this->rooms=rooms;
         this->area=area;
+        //µÚÒ»´Î²âÊÔ
     }
 
 };
